@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Exercice 2</title>
+  </head>
+  <body>
+    <h1>Titre numéro 1</h1>
+    <p>premier paragraphe</p>
+    <h2>Titre numéro 2</h2>
+    <p>second paragraphe</p>
+    <h2>Titre numéro 3</h2>
+    <p>troisième paragraphe</p>
+    <pre><code></code></pre>
+  </body>
+</html>
